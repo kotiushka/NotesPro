@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:defaultValue="false"
+        app:iconSpaceReserved="false"
+        app:key="gridColumnLayout"
+        app:summary="Включите эту настройку если хотите отображать две заметки в ряд."
+        app:title="Кол-во заметок в ряд" />
+
+</PreferenceScreen>

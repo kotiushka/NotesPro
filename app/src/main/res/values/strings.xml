@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesPro</string>
+    <string name="settings_option">Настройки</string>
+    <string name="contacts_option">Контакты</string>
+    <string name="contact_url">https://github.com/kotiushka</string>
+    <string name="add_note_fab">Добавить заметку</string>
+    <string name="note_some_title">Заголовок</string>
+    <string name="note_some_info">Информация</string>
+    <string name="note_title_editor">Название</string>
+    <string name="note_info_editor">Текст заметки</string>
+    <string name="empty_note_deleted">Пустая заметка была удалена</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="note_was_deleted">Заметка была успешно удалена</string>
+</resources>
